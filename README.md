@@ -1,4 +1,4 @@
-README: LSTM Autoencoder for Anomaly Detection in Water Quality Data
+LSTM Autoencoder for Anomaly Detection in Water Quality Data
 Project Overview
 This project focuses on anomaly detection in water quality data using Long Short-Term Memory (LSTM) autoencoders. LSTM networks, a type of Recurrent Neural Network (RNN), are utilized to handle sequential time-series data, capturing long-term dependencies. By integrating autoencoders, the system employs unsupervised learning, compressing input data into a lower-dimensional latent representation before reconstructing it to detect anomalies.
 
